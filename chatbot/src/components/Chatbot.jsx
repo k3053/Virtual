@@ -3,8 +3,6 @@ import ChatWindow from './ChatWindow';
 import ChatInput from './ChatInput';
 import './chatbot.css';
 
-//const API_KEY = "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";
-
 // System message to set the behavior of the assistant
 const systemMessage = {
   role: "system",
